@@ -1,0 +1,2 @@
+# emacssetup
+set up emacs
